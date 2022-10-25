@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{    //cout<<"hi";
+{
     string s,str="-";
     int l,N=1,m=1;
     getline(cin,s);
